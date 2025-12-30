@@ -10,5 +10,6 @@ public class UsuariosApplication {
 		SpringApplication.run(UsuariosApplication.class, args);
 		System.out.println();
 		System.out.println();
+		System.out.println();
 	}
 }
